@@ -1,0 +1,12 @@
+package com.edwebinars.eduwebinars;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EduWebinarsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EduWebinarsApplication.class, args);
+	}
+}
